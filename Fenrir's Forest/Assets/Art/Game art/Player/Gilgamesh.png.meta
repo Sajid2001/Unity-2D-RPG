@@ -1,0 +1,2083 @@
+fileFormatVersion: 2
+guid: ad6828ac0f3c9054783023ad9e459c5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8298335142436343970
+    second: adventurer-Sheet_0
+  - first:
+      213: -743574260923404329
+    second: adventurer-Sheet_1
+  - first:
+      213: 7740607249621568444
+    second: adventurer-Sheet_2
+  - first:
+      213: 7408749945275818682
+    second: adventurer-Sheet_3
+  - first:
+      213: -1703503134494083185
+    second: adventurer-Sheet_4
+  - first:
+      213: 4011903944418225170
+    second: adventurer-Sheet_5
+  - first:
+      213: -4980462888639763117
+    second: adventurer-Sheet_6
+  - first:
+      213: 1574406424878940178
+    second: adventurer-Sheet_7
+  - first:
+      213: -6751727042719553574
+    second: adventurer-Sheet_8
+  - first:
+      213: 8253001654063652594
+    second: adventurer-Sheet_9
+  - first:
+      213: -4604984467051681906
+    second: adventurer-Sheet_10
+  - first:
+      213: 8189100351000139943
+    second: adventurer-Sheet_11
+  - first:
+      213: -6692866986946557475
+    second: adventurer-Sheet_12
+  - first:
+      213: -5852505179652196879
+    second: adventurer-Sheet_13
+  - first:
+      213: 2405722623682963679
+    second: adventurer-Sheet_14
+  - first:
+      213: -7991917730644437596
+    second: adventurer-Sheet_15
+  - first:
+      213: 5546546619715928098
+    second: adventurer-Sheet_16
+  - first:
+      213: -4675363991662399564
+    second: adventurer-Sheet_17
+  - first:
+      213: 7123780447028838037
+    second: adventurer-Sheet_18
+  - first:
+      213: -2058269288273896992
+    second: adventurer-Sheet_19
+  - first:
+      213: 9039208664650840236
+    second: adventurer-Sheet_20
+  - first:
+      213: 827811162389397856
+    second: adventurer-Sheet_21
+  - first:
+      213: -6529348207798241894
+    second: adventurer-Sheet_22
+  - first:
+      213: -8052795731847107983
+    second: adventurer-Sheet_23
+  - first:
+      213: 8222897756744210032
+    second: adventurer-Sheet_24
+  - first:
+      213: -1870133701402837009
+    second: adventurer-Sheet_25
+  - first:
+      213: -5559146640247301975
+    second: adventurer-Sheet_26
+  - first:
+      213: -8381167593095594553
+    second: adventurer-Sheet_27
+  - first:
+      213: 5812651386001056028
+    second: adventurer-Sheet_28
+  - first:
+      213: -7516204376657526121
+    second: adventurer-Sheet_29
+  - first:
+      213: -8453819866301387369
+    second: adventurer-Sheet_30
+  - first:
+      213: 7475914677474725688
+    second: adventurer-Sheet_31
+  - first:
+      213: 3072006075454103488
+    second: adventurer-Sheet_32
+  - first:
+      213: 3263298011188648719
+    second: adventurer-Sheet_33
+  - first:
+      213: -2313268147859496231
+    second: adventurer-Sheet_34
+  - first:
+      213: -4235098747027845679
+    second: adventurer-Sheet_35
+  - first:
+      213: 6786391497225868855
+    second: adventurer-Sheet_36
+  - first:
+      213: 2333719886634136160
+    second: adventurer-Sheet_37
+  - first:
+      213: -1587111403576685995
+    second: adventurer-Sheet_38
+  - first:
+      213: -751702463649770895
+    second: adventurer-Sheet_39
+  - first:
+      213: -3572150522789669182
+    second: adventurer-Sheet_40
+  - first:
+      213: 7390780548477453306
+    second: adventurer-Sheet_41
+  - first:
+      213: -7788531668074343583
+    second: adventurer-Sheet_42
+  - first:
+      213: 2396510735316617832
+    second: adventurer-Sheet_43
+  - first:
+      213: 969971699180811158
+    second: adventurer-Sheet_44
+  - first:
+      213: -1294214679968634226
+    second: adventurer-Sheet_45
+  - first:
+      213: 7759410105619364045
+    second: adventurer-Sheet_46
+  - first:
+      213: 4832856430916926167
+    second: adventurer-Sheet_47
+  - first:
+      213: 6402137628355386769
+    second: adventurer-Sheet_48
+  - first:
+      213: 3684988079611829706
+    second: adventurer-Sheet_49
+  - first:
+      213: 8861830721830389235
+    second: adventurer-Sheet_50
+  - first:
+      213: 1520558021292090289
+    second: adventurer-Sheet_51
+  - first:
+      213: -3957365507521314166
+    second: adventurer-Sheet_52
+  - first:
+      213: 7877244222421145784
+    second: adventurer-Sheet_53
+  - first:
+      213: -9090754285384806103
+    second: adventurer-Sheet_54
+  - first:
+      213: -3513742163621345000
+    second: adventurer-Sheet_55
+  - first:
+      213: 1602537094343532810
+    second: adventurer-Sheet_56
+  - first:
+      213: 8970591240777210737
+    second: adventurer-Sheet_57
+  - first:
+      213: -2563319291687175751
+    second: adventurer-Sheet_58
+  - first:
+      213: -1482246009198321619
+    second: adventurer-Sheet_59
+  - first:
+      213: 2525105423355198953
+    second: adventurer-Sheet_60
+  - first:
+      213: 272472793923341029
+    second: adventurer-Sheet_61
+  - first:
+      213: 7116844122142724833
+    second: adventurer-Sheet_62
+  - first:
+      213: -7352640534987222063
+    second: adventurer-Sheet_63
+  - first:
+      213: 1422935986188544498
+    second: adventurer-Sheet_64
+  - first:
+      213: 7916334444075441938
+    second: adventurer-Sheet_65
+  - first:
+      213: 7005773408560985019
+    second: adventurer-Sheet_66
+  - first:
+      213: -632161902351492241
+    second: adventurer-Sheet_67
+  - first:
+      213: 6570915518496267797
+    second: adventurer-Sheet_68
+  - first:
+      213: 4705856455261463092
+    second: adventurer-Sheet_69
+  - first:
+      213: -4013564657986398608
+    second: adventurer-Sheet_70
+  - first:
+      213: -959149123161973046
+    second: adventurer-Sheet_71
+  - first:
+      213: -5629365148009400772
+    second: Gilgamesh_0
+  - first:
+      213: -3413526969339207924
+    second: Gilgamesh_1
+  - first:
+      213: -7115111721494169089
+    second: Gilgamesh_2
+  - first:
+      213: 7488799971929526072
+    second: Gilgamesh_3
+  - first:
+      213: -8800202573581053558
+    second: Gilgamesh_4
+  - first:
+      213: -8657889201037678450
+    second: Gilgamesh_5
+  - first:
+      213: 3204526524801790596
+    second: Gilgamesh_6
+  - first:
+      213: -2616898772566941183
+    second: Gilgamesh_7
+  - first:
+      213: 5119910694862774988
+    second: Gilgamesh_8
+  - first:
+      213: 7232257354359303092
+    second: Gilgamesh_9
+  - first:
+      213: -6256062197727648533
+    second: Gilgamesh_10
+  - first:
+      213: 5376440200547333998
+    second: Gilgamesh_11
+  - first:
+      213: -1835084410092346613
+    second: Gilgamesh_12
+  - first:
+      213: -8271775177055019415
+    second: Gilgamesh_13
+  - first:
+      213: -513095306798595664
+    second: Gilgamesh_14
+  - first:
+      213: 8346293898317624519
+    second: Gilgamesh_15
+  - first:
+      213: 7920841092594033919
+    second: Gilgamesh_16
+  - first:
+      213: 3992588354746575009
+    second: Gilgamesh_17
+  - first:
+      213: -7744163547241385113
+    second: Gilgamesh_18
+  - first:
+      213: 1623720603589074392
+    second: Gilgamesh_19
+  - first:
+      213: -7725893050487282915
+    second: Gilgamesh_20
+  - first:
+      213: -5183729304876945221
+    second: Gilgamesh_21
+  - first:
+      213: -4305010642604200184
+    second: Gilgamesh_22
+  - first:
+      213: -4892986781860972409
+    second: Gilgamesh_23
+  - first:
+      213: 6267495486657043412
+    second: Gilgamesh_24
+  - first:
+      213: -1771234216373119248
+    second: Gilgamesh_25
+  - first:
+      213: 552076263617793659
+    second: Gilgamesh_26
+  - first:
+      213: -1364101409175405637
+    second: Gilgamesh_27
+  - first:
+      213: -8318348831347683199
+    second: Gilgamesh_28
+  - first:
+      213: 1065327310344225616
+    second: Gilgamesh_29
+  - first:
+      213: -8450762470329117402
+    second: Gilgamesh_30
+  - first:
+      213: -1567241338437820051
+    second: Gilgamesh_31
+  - first:
+      213: 7125794375619787875
+    second: Gilgamesh_32
+  - first:
+      213: 4979163336987083155
+    second: Gilgamesh_33
+  - first:
+      213: -8500528173931192008
+    second: Gilgamesh_34
+  - first:
+      213: 1219685697206653794
+    second: Gilgamesh_35
+  - first:
+      213: -7179543970372980885
+    second: Gilgamesh_36
+  - first:
+      213: 3391896828341647097
+    second: Gilgamesh_37
+  - first:
+      213: 6178041218238997209
+    second: Gilgamesh_38
+  - first:
+      213: 8572997255188402955
+    second: Gilgamesh_39
+  - first:
+      213: 3710699282733983437
+    second: Gilgamesh_40
+  - first:
+      213: 7520647205891246640
+    second: Gilgamesh_41
+  - first:
+      213: -4700892799855055886
+    second: Gilgamesh_42
+  - first:
+      213: 4149603965166390956
+    second: Gilgamesh_43
+  - first:
+      213: 7121848436358297431
+    second: Gilgamesh_44
+  - first:
+      213: 5780348362260801112
+    second: Gilgamesh_45
+  - first:
+      213: -3103586609194383745
+    second: Gilgamesh_46
+  - first:
+      213: 1068008044399904378
+    second: Gilgamesh_47
+  - first:
+      213: 4286896449553561128
+    second: Gilgamesh_48
+  - first:
+      213: -8898767054830888471
+    second: Gilgamesh_49
+  - first:
+      213: 6950015321809552182
+    second: Gilgamesh_50
+  - first:
+      213: 4394331003934639617
+    second: Gilgamesh_51
+  - first:
+      213: -3633198547747587398
+    second: Gilgamesh_52
+  - first:
+      213: -5273141736593279520
+    second: Gilgamesh_53
+  - first:
+      213: 1216323819950477438
+    second: Gilgamesh_54
+  - first:
+      213: -8163362881818191016
+    second: Gilgamesh_55
+  - first:
+      213: -3034321568408302260
+    second: Gilgamesh_56
+  - first:
+      213: -8909440666334440592
+    second: Gilgamesh_57
+  - first:
+      213: -3638879441459026627
+    second: Gilgamesh_58
+  - first:
+      213: 1133120950000953048
+    second: Gilgamesh_59
+  - first:
+      213: 1163882737812552293
+    second: Gilgamesh_60
+  - first:
+      213: 3543267440897451358
+    second: Gilgamesh_61
+  - first:
+      213: 2135542785022951118
+    second: Gilgamesh_62
+  - first:
+      213: 2418508065705356503
+    second: Gilgamesh_63
+  - first:
+      213: -6474760961334648559
+    second: Gilgamesh_64
+  - first:
+      213: -8605165385517816466
+    second: Gilgamesh_65
+  - first:
+      213: -8138837326108598571
+    second: Gilgamesh_66
+  - first:
+      213: -7874184815306769069
+    second: Gilgamesh_67
+  - first:
+      213: -4722304034920147722
+    second: Gilgamesh_68
+  - first:
+      213: 6970435603041728404
+    second: Gilgamesh_69
+  - first:
+      213: -6269944978936493614
+    second: Gilgamesh_70
+  - first:
+      213: 7317815873008395942
+    second: Gilgamesh_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gilgamesh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63398a62e1eee4418ef19852f0e2a42
+      internalID: -5629365148009400772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 370
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8083dc6c7bcfea4db6df6a81e7658b9
+      internalID: -3413526969339207924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 370
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7dd20762c4fbf4cacfb5a240493621
+      internalID: -7115111721494169089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 370
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10c414cdf2839c45899cea3fc578aa4
+      internalID: 7488799971929526072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 370
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03002080064032f458bc4946d7d678f0
+      internalID: -8800202573581053558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 370
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad663288d33e5b4087754567dd87f68
+      internalID: -8657889201037678450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 370
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b2fdf33deb7541a79c3938c8069d3
+      internalID: 3204526524801790596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f83f887ceb1f49bf62b693d178f10
+      internalID: -2616898772566941183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 333
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d41e5488584f4da8a8c1e6abc2204
+      internalID: 5119910694862774988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 333
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30877b7f97e0540b5bcd58c43de63b
+      internalID: 7232257354359303092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 333
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080e56627e2a4f479232ada4d9edf9d
+      internalID: -6256062197727648533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 333
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ff6797a106d44a8d82690a3f7cf5a
+      internalID: 5376440200547333998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 333
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31300e62e12f93d479d79312a7fee604
+      internalID: -1835084410092346613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 333
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6954eb06909e44fb342e96a3cc911c
+      internalID: -8271775177055019415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2802fa8e54acaa2498692f620366420e
+      internalID: -513095306798595664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 296
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef643b22786d423429abbaf90ce31d00
+      internalID: 8346293898317624519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 296
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308208c5871478489a5b6663c4ffa80
+      internalID: 7920841092594033919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 296
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0308ac6e84e1428608475b5dbbd13
+      internalID: 3992588354746575009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef63dece9ca8a142a97d7f2adaacf30
+      internalID: -7744163547241385113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 296
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08aece42849abe4c9090ec414cc4a81
+      internalID: 1623720603589074392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 296
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7261ad20a3be1f84a884d47cf63129c8
+      internalID: -7725893050487282915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e3a37819538c44a9f7774b4b8f6b2
+      internalID: -5183729304876945221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 259
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf4ccd7c9f3bc4ca7bc2589bab6332
+      internalID: -4305010642604200184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 259
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a49e2dedf4377e4993f674af57c8d7e
+      internalID: -4892986781860972409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 259
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c156d464c049e429b2b662c1549a1f
+      internalID: 6267495486657043412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950396fef1c7c146a2859b9c0e6a700
+      internalID: -1771234216373119248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 259
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fba0bb57aff344ca9b3c0ba8c9fbb0
+      internalID: 552076263617793659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 259
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e818aa5cfdbbd0845a4771efc8f3b97f
+      internalID: -1364101409175405637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2dad2d25fef644b484c3fc7928ddd
+      internalID: -8318348831347683199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be4e7383630ad747b815d702cf45e03
+      internalID: 1065327310344225616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15217ab569ce324ca723da0cf4a9cf3
+      internalID: -8450762470329117402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf8c7fcb688f849b10b475817bdec0
+      internalID: -1567241338437820051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b41f4315db3ffc41ae07063c31872f6
+      internalID: 7125794375619787875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2535f85dc4cc664f8142e1de875ddfd
+      internalID: 4979163336987083155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 222
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3301f2ead903049859a74364c83f2b
+      internalID: -8500528173931192008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a65e1af180faf429ada50e0c919856
+      internalID: 1219685697206653794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe07bfd79ecc5a4582b427fe4b1b7b3
+      internalID: -7179543970372980885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 185
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e19a1149ad614c9d8b8a32dff600e
+      internalID: 3391896828341647097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 185
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c263cd154d0bb418ffc3a970795a1a
+      internalID: 6178041218238997209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 185
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20153430ffdc443439e099dfdbfe8579
+      internalID: 8572997255188402955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 185
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b7ad241fe97b47b1e4f67629667fe
+      internalID: 3710699282733983437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 185
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce29dd6839a1c8d448c68b8fdfc813c3
+      internalID: 7520647205891246640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e7b262bc848104eba5e7d7479d3956
+      internalID: -4700892799855055886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 148
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3136e9c126e8c46b626b022ec4d797
+      internalID: 4149603965166390956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 148
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016d91f1a075891499061a7e94759893
+      internalID: 7121848436358297431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 148
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faa21aa0cf5fd944893107e6c4d49b8
+      internalID: 5780348362260801112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 148
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280185334e4ba354b9f55e00ffd470ea
+      internalID: -3103586609194383745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 148
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa348140dd5971499d43bc6fd33b84b
+      internalID: 1068008044399904378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 148
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e7095b13aa1644b9853bcce1adaf39
+      internalID: 4286896449553561128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19ab8a9bb422245a906806dffab048
+      internalID: -8898767054830888471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1ada801003064090e9b0c7c1d20fe
+      internalID: 6950015321809552182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a325f236eeec4388d34472a4e383e
+      internalID: 4394331003934639617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 111
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad8e5d0304aa4842b8b6a5a9a7bf3cf
+      internalID: -3633198547747587398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 111
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2179c69ee744314298726b910cb3908
+      internalID: -5273141736593279520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_54
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 111
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88a2f699c567c942b5a2a6a62ee02ef
+      internalID: 1216323819950477438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f0107d260a2a49a39b34b4257c73a
+      internalID: -8163362881818191016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623675c5b0ce7924ea4c3b3557b12a38
+      internalID: -3034321568408302260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa52a41f76918f4eabd84acfc4c9893
+      internalID: -8909440666334440592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 74
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b77553d6f581249b66f2f44b2c6ab2
+      internalID: -3638879441459026627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 74
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a51e2f1faa3c94abdbf148cd219591
+      internalID: 1133120950000953048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c0877972ee9c94db6831a8f2e03c6e
+      internalID: 1163882737812552293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 74
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f57f671ad266a459bcb52bae539209
+      internalID: 3543267440897451358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 74
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5fcf7a8076ab741aef5ce89dfb5170
+      internalID: 2135542785022951118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d7efbf2ec8dee489d6869ca5aca3e2
+      internalID: 2418508065705356503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 37
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf152eaea16b245a4600b69edf4dad
+      internalID: -6474760961334648559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426a36e94f0500428fcca758559415e
+      internalID: -8605165385517816466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 37
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf118ca167560c94ca3099e09641ce5d
+      internalID: -8138837326108598571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eb6be32f74ee0408fd7df916ff8501
+      internalID: -7874184815306769069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_68
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 37
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cbe7aa83f7ebc42a26dc9d676f999c
+      internalID: -4722304034920147722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 37
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0753300c37c34789ce67a6a1b7778
+      internalID: 6970435603041728404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8954d1c999bcb844a1f7fe90ad10b65
+      internalID: -6269944978936493614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilgamesh_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1dd0e508b90684bbe20683970935dd
+      internalID: 7317815873008395942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
